@@ -1,0 +1,16 @@
+nav {
+    background-color: #F55A5A;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.5rem;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+    padding: 30px;
+    margin-bottom: 30px;
+
+}
+
+nav h1 {
+    margin: 0;
+
+}
